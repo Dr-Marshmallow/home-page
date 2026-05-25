@@ -1,0 +1,9 @@
+{
+  "subdomains": [
+    {
+      "title": "Nome servizio",
+      "description": "Breve descrizione del servizio disponibile su questo sottodominio.",
+      "url": "https://subdomain.mariolino.uk"
+    }
+  ]
+}

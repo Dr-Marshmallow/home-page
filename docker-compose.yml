@@ -1,0 +1,8 @@
+services:
+  home:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - ./public/sub-domain.json:/usr/share/nginx/html/sub-domain.json:ro
+    restart: unless-stopped
