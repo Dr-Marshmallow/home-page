@@ -62,7 +62,7 @@ The app runs at `http://localhost:5173`.
 docker compose up --build
 ```
 
-The app is served on `http://localhost:80`.
+The app is served on `http://localhost:4000`.
 
 ### Update services without rebuild
 
